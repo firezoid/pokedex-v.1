@@ -1,5 +1,6 @@
 # Pokedex V-1
-A modern product landing page.
+A quick small pokedex with all common Pokémon's listed.
+
 
 ![Scr](https://i.ibb.co/kcYzXSB/image-2021-06-21-214554.png)
 
